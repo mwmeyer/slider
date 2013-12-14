@@ -1,0 +1,1 @@
+A simple angular.js slider directive. Depends on jquery but not jquery ui! (although the default slider css comes from jquery ui).
